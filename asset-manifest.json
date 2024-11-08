@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/hospital-website/hospital/static/css/main.f9a691a8.css",
-    "main.js": "/hospital-website/hospital/static/js/main.9d40fd5e.js",
-    "static/js/453.26c19fab.chunk.js": "/hospital-website/hospital/static/js/453.26c19fab.chunk.js",
-    "static/media/video-player.mp4": "/hospital-website/hospital/static/media/video-player.f8c53f731268442a132c.mp4",
-    "static/media/about.jpeg": "/hospital-website/hospital/static/media/about.6bd963036388c4b8bdd5.jpeg",
-    "static/media/doc.jpg": "/hospital-website/hospital/static/media/doc.780df2f268b43ea6e3aa.jpg",
-    "static/media/img3.jpg": "/hospital-website/hospital/static/media/img3.e4ecaf9f0876225afa07.jpg",
-    "static/media/hp.jpg": "/hospital-website/hospital/static/media/hp.267877ec7f9c9c57efdd.jpg",
-    "static/media/honey.jpg": "/hospital-website/hospital/static/media/honey.fe1178f292bf437f28c7.jpg",
-    "static/media/img6.jpg": "/hospital-website/hospital/static/media/img6.890d39fb5b8e2c6c3c15.jpg",
-    "static/media/img5.jpg": "/hospital-website/hospital/static/media/img5.78ad88481ed05112ee40.jpg",
-    "static/media/img4.jpg": "/hospital-website/hospital/static/media/img4.6c81b00a859bd45b7077.jpg",
-    "static/media/homoeo.jpeg": "/hospital-website/hospital/static/media/homoeo.0adaa3d647dcb1aed9ed.jpeg",
-    "static/media/therapy.png": "/hospital-website/hospital/static/media/therapy.5da4146e74d87489b5d4.png",
-    "static/media/h1.png": "/hospital-website/hospital/static/media/h1.0e9829a10d30f7e15151.png",
-    "static/media/homeopathy.png": "/hospital-website/hospital/static/media/homeopathy.722d5a351b26c34f0fe1.png",
-    "static/media/casedus.jpg": "/hospital-website/hospital/static/media/casedus.69a06249f1214a821ad4.jpg",
-    "index.html": "/hospital-website/hospital/index.html",
-    "main.f9a691a8.css.map": "/hospital-website/hospital/static/css/main.f9a691a8.css.map",
-    "main.9d40fd5e.js.map": "/hospital-website/hospital/static/js/main.9d40fd5e.js.map",
-    "453.26c19fab.chunk.js.map": "/hospital-website/hospital/static/js/453.26c19fab.chunk.js.map"
+    "main.css": "/hospital/static/css/main.097c0b6f.css",
+    "main.js": "/hospital/static/js/main.bb68140e.js",
+    "static/js/453.26c19fab.chunk.js": "/hospital/static/js/453.26c19fab.chunk.js",
+    "static/media/video-player.mp4": "/hospital/static/media/video-player.f8c53f731268442a132c.mp4",
+    "static/media/about.jpeg": "/hospital/static/media/about.6bd963036388c4b8bdd5.jpeg",
+    "static/media/doc.jpg": "/hospital/static/media/doc.780df2f268b43ea6e3aa.jpg",
+    "static/media/img3.jpg": "/hospital/static/media/img3.e4ecaf9f0876225afa07.jpg",
+    "static/media/hp.jpg": "/hospital/static/media/hp.267877ec7f9c9c57efdd.jpg",
+    "static/media/honey.jpg": "/hospital/static/media/honey.fe1178f292bf437f28c7.jpg",
+    "static/media/img6.jpg": "/hospital/static/media/img6.890d39fb5b8e2c6c3c15.jpg",
+    "static/media/img5.jpg": "/hospital/static/media/img5.78ad88481ed05112ee40.jpg",
+    "static/media/img4.jpg": "/hospital/static/media/img4.6c81b00a859bd45b7077.jpg",
+    "static/media/homoeo.jpeg": "/hospital/static/media/homoeo.0adaa3d647dcb1aed9ed.jpeg",
+    "static/media/therapy.png": "/hospital/static/media/therapy.5da4146e74d87489b5d4.png",
+    "static/media/h1.png": "/hospital/static/media/h1.0e9829a10d30f7e15151.png",
+    "static/media/homeopathy.png": "/hospital/static/media/homeopathy.722d5a351b26c34f0fe1.png",
+    "static/media/casedus.jpg": "/hospital/static/media/casedus.69a06249f1214a821ad4.jpg",
+    "index.html": "/hospital/index.html",
+    "main.097c0b6f.css.map": "/hospital/static/css/main.097c0b6f.css.map",
+    "main.bb68140e.js.map": "/hospital/static/js/main.bb68140e.js.map",
+    "453.26c19fab.chunk.js.map": "/hospital/static/js/453.26c19fab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9a691a8.css",
-    "static/js/main.9d40fd5e.js"
+    "static/css/main.097c0b6f.css",
+    "static/js/main.bb68140e.js"
   ]
 }
