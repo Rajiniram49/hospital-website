@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9fe7d853.css",
+    "main.js": "/static/js/main.529fef99.js",
+    "static/js/453.26c19fab.chunk.js": "/static/js/453.26c19fab.chunk.js",
+    "static/media/video-player.mp4": "/static/media/video-player.f8c53f731268442a132c.mp4",
+    "static/media/about.jpeg": "/static/media/about.6bd963036388c4b8bdd5.jpeg",
+    "static/media/doc.jpg": "/static/media/doc.780df2f268b43ea6e3aa.jpg",
+    "static/media/img3.jpg": "/static/media/img3.e4ecaf9f0876225afa07.jpg",
+    "static/media/hp.jpg": "/static/media/hp.267877ec7f9c9c57efdd.jpg",
+    "static/media/honey.jpg": "/static/media/honey.fe1178f292bf437f28c7.jpg",
+    "static/media/img6.jpg": "/static/media/img6.890d39fb5b8e2c6c3c15.jpg",
+    "static/media/img5.jpg": "/static/media/img5.78ad88481ed05112ee40.jpg",
+    "static/media/img4.jpg": "/static/media/img4.6c81b00a859bd45b7077.jpg",
+    "static/media/homoeo.jpeg": "/static/media/homoeo.0adaa3d647dcb1aed9ed.jpeg",
+    "static/media/therapy.png": "/static/media/therapy.5da4146e74d87489b5d4.png",
+    "static/media/h1.png": "/static/media/h1.0e9829a10d30f7e15151.png",
+    "static/media/homeopathy.png": "/static/media/homeopathy.722d5a351b26c34f0fe1.png",
+    "static/media/casedus.jpg": "/static/media/casedus.69a06249f1214a821ad4.jpg",
+    "index.html": "/index.html",
+    "main.9fe7d853.css.map": "/static/css/main.9fe7d853.css.map",
+    "main.529fef99.js.map": "/static/js/main.529fef99.js.map",
+    "453.26c19fab.chunk.js.map": "/static/js/453.26c19fab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fe7d853.css",
+    "static/js/main.529fef99.js"
+  ]
+}
